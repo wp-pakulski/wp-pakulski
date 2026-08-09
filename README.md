@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Wojciech 👋
 
-<!--
-**wp-pakulski/wp-pakulski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn messy operational data into decisions someone can actually act on.
 
-Here are some ideas to get you started:
+Career changer: 4 years coordinating construction projects in Sweden — planning,
+schedule control and client reporting — now applying the same discipline to data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Working with:** SQL (window functions, CTEs) · Python (pandas) · Power BI (DAX, data modeling) · Excel (Power Query)
+
+### Featured project
+
+**[Olist E-commerce Marketplace Analysis](https://github.com/wp-pakulski/olist-ecommerce-analysis)**
+End-to-end analysis of ~100k orders: 9 raw CSV files → SQLite → cross-validated KPIs
+→ 3-page Power BI dashboard, ending with quantified business recommendations
+(delivery SLA, seller quality gate, retention program).
