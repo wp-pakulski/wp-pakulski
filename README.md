@@ -13,3 +13,7 @@ schedule control and client reporting — now applying the same discipline to da
 End-to-end analysis of ~100k orders: 9 raw CSV files → SQLite → cross-validated KPIs
 → 3-page Power BI dashboard, ending with quantified business recommendations
 (delivery SLA, seller quality gate, retention program).
+
+---
+
+📍 Poland · 📧 wp.pakulski@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/wp-pakulski)
