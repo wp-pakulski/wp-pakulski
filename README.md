@@ -25,10 +25,10 @@ End-to-end analysis of ~100k orders: 9 raw CSVs → SQLite → cross-validated K
 3-page Power BI dashboard. Cross-checking SQL against DAX caught four bugs in my own work,
 none of which threw an error.
 
-**[Bitcoin ETF flow proxy - a validation](https://github.com/wp-pakulski/btc-etf-flow
+**[Bitcoin ETF flow proxy - a validation](https://github.com/wp-pakulski/btc-etf-flow-validation)**
 A widely used proxy for daily ETF capital flows turns out to track trading volume instead
-(Pearson 0.97). Shows what the indicator actually measures, rather than what it is as
+(Pearson 0.97). Shows what the indicator actually measures, rather than what it is assumed to.
 
 ---
 
-📍 Poland · 📧 wp.pakulski@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/wp-pakul
+📍 Poland · 📧 wp.pakulski@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/wp-pakulski)
