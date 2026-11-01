@@ -15,9 +15,10 @@ energy cost by **21.6%**. Built on 76,512 quarter-hour records pulled from the P
 API. [Live dashboard →](https://lookerstudio.google.com/reporting/3423ae87-ed0b-49ac-89fb-7a45a6840c7b)
 
 **[Fed cycles and recession signals](https://github.com/wp-pakulski/fed-recession-signals)**
-17 macro series, 1990-2026. Cheap money does **not** produce higher equity returns
-(p = 0.993), and half of the popular recession indicators do not actually lead recessions.
-Thresholds calibrated on the historical distribution, backtested on four recessions.
+17 macro series, 1990-2026. In this sample, months with a negative real Fed rate show the same
+average 12-month S&P 500 return as the rest (10.1% in both). Several popular recession indicators
+(Sahm Rule, HY spread, jobless claims) rise during recessions rather than before them.
+An 8-signal recession report, checked against the three recessions with complete data (since 1996).
 [Live dashboard →](https://wp-pakulski.github.io/fed-recession-signals/reports/dashboard.html)
 
 **[Olist e-commerce marketplace analysis](https://github.com/wp-pakulski/olist-ecommerce-analysis)**
